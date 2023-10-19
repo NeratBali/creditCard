@@ -18,7 +18,7 @@ body{
   height: 100vh;
   display: flex;
   overflow-x: hidden;
-  overflow-y: hidden;
+  overflow-y: scroll;
   font-family: "Space Grotesk";
 }
 .page{
